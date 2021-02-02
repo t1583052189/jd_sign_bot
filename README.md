@@ -8,5 +8,13 @@
         <img alt="Author" src="https://img.shields.io/badge/author-ruicky-blueviolet"/>
     </a>
 </p>
+京东自动签到
+功能：
+
+获取签到最新代码
+替换参数值
+签到并发送通知
+详情参考文章：京东定时签到-GitHub实现
+
 
 
